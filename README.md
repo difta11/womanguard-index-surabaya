@@ -145,13 +145,13 @@ Memastikan X5 dan X6 tidak saling berkorelasi berlebihan sebelum hasil regresi d
 
 ### 1. Clone repositori
 ```bash
-git clone https://github.com/username/WomanGuard.git
-cd WomanGuard
+git clone https://github.com/difta11/womanguard-index-surabaya
+cd womanguard-index-surabaya
 ```
 
 ### 2. Install dependensi
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn statsmodels openpyxl
+pip install -r requirements.txt
 ```
 
 ### 3. Siapkan data
