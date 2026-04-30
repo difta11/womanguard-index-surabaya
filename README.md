@@ -211,14 +211,13 @@ Setiap file Excel data mentah mengikuti format ekspor dari sistem administrasi k
 
 ## 👩‍💻 Kontributor
 
-1. Istianatul Latifa
-Statistics Student - Institut Teknologi Sepuluh Nopember
+Proyek ini dikembangkan sebagai bagian dari riset pemetaan sosial berbasis data di Kota Surabaya.
 
-2. Tsany Deni Mahardika
-Statistics Student - Institut Teknologi Sepuluh Nopember
-
-3. Difta Raditya Pratama
-Data Science Student - Institut Teknologi Sepuluh Nopember
+| Nama | Program Studi | Institusi |
+|------|--------------|-----------|
+| **Istianatul Latifa** | Statistika | Institut Teknologi Sepuluh Nopember |
+| **Tsany Deni Mahardika** | Statistika | Institut Teknologi Sepuluh Nopember |
+| **Difta Raditya Pratama** | Sains Data | Institut Teknologi Sepuluh Nopember |
 
 ---
 
