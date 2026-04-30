@@ -1,6 +1,7 @@
 # 🛡️ WomanGuard
 ### Indeks Kerentanan Perempuan Berbasis Feminisasi Kemiskinan dan Pemberdayaan Ekonomi
-**Pemetaan Prioritas Pembangunan Perempuan di Kota Surabaya**
+**Sebuah proyek berbasis data untuk membangun Indeks WomanGuard dalam mengukur kerentanan perempuan di berbagai kecamatan di Surabaya menggunakan PCA dan analisis statistik.
+**
 
 ---
 
