@@ -33,6 +33,8 @@ womanguard-index-surabaya/
 │   ├── Clustering_Results.png
 │   ├── Regression_Visualization.png
 │   └── Correlation_Comparison.png
+├── .gitattributes
+├── LICENSE
 ├── README.md
 ├── requirements.txt
 └── WomanGuard.ipynb
