@@ -27,13 +27,19 @@ womanguard-index-surabaya/
 │   ├── (X4) Persentase kepala keluarga dengan pendidikan tidakbelum tamat SD/
 │   ├── (X5) Persentase kepala keluarga perempuan yang bekerja/
 │   ├── (X6) Persentase perempuan berpendidikan SMA ke atas/
-│   └── df_cleaned.csv
+│   ├── df_cleaned.csv
+│   ├── gadm41_IDN_4.json
+│   └── pca_df.csv
 ├── Plot/
-│   ├── Woman_Guard_Index.png
+│   ├── Boxplot_Distribution.png
 │   ├── Clustering_Results.png
-│   ├── Regression_Visualization.png
-│   └── Correlation_Comparison.png
+│   ├── Correlation_Comparison.png          
+│   ├── MAP_woman_guard_index_surabaya.png
+│   ├── Multiple_Regression_Visualization.png
+│   ├── Simple_Regression_Visualization.png
+│   └── Woman_Guard_Index.png
 ├── .gitattributes
+├── gadm41_IDN_4.json.zip
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
