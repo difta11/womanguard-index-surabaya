@@ -33,10 +33,9 @@ womanguard-index-surabaya/
 ├── Plot/
 │   ├── Boxplot_Distribution.png
 │   ├── Clustering_Results.png
-│   ├── Correlation_Comparison.png          
+│   ├── Correlation_Comparison.png    
+│   ├── Liner_Regression_Visualization.png      
 │   ├── MAP_woman_guard_index_surabaya.png
-│   ├── Multiple_Regression_Visualization.png
-│   ├── Simple_Regression_Visualization.png
 │   └── Woman_Guard_Index.png
 ├── .gitattributes
 ├── gadm41_IDN_4.json.zip
