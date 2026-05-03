@@ -20,23 +20,24 @@ Hasil akhir berupa **peta prioritas pembangunan perempuan** di 31 kecamatan Kota
 
 ```
 womanguard-index-surabaya/
-├── Data/
+├── data/
 │   ├── (X1) Persentase kepala keluarga berstatus cerai hidup per kecamatan/
 │   ├── (X2) Persentase keluarga miskin/
 │   ├── (X3) Persentase kepala keluarga perempuan/
 │   ├── (X4) Persentase kepala keluarga dengan pendidikan tidakbelum tamat SD/
 │   ├── (X5) Persentase kepala keluarga perempuan yang bekerja/
 │   ├── (X6) Persentase perempuan berpendidikan SMA ke atas/
-│   ├── df_cleaned.csv
 │   ├── gadm41_IDN_4.json
-│   └── pca_df.csv
-├── Plot/
+├── output/
 │   ├── Boxplot_Distribution.png
 │   ├── Clustering_Results.png
 │   ├── Correlation_Comparison.png    
+│   ├── Elbow_Method.png 
 │   ├── Liner_Regression_Visualization.png      
 │   ├── MAP_woman_guard_index_surabaya.png
-│   └── Woman_Guard_Index.png
+│   ├── Woman_Guard_Index.png
+│   ├── df_cleaned.csv
+│   └── pca_df.csv
 ├── .gitattributes
 ├── gadm41_IDN_4.json.zip
 ├── LICENSE
